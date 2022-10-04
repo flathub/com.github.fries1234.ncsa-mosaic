@@ -2,3 +2,4 @@
 .vscode
 .flatpak-builder
 build-dir
+build-repo
